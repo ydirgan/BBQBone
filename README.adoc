@@ -1,0 +1,16 @@
+:scrollbar:
+:data-uri:
+:toc2:
+:imagesdir: images
+
+= BBQbone - a simple yet powerful BBQ control system based on Beaglebone Black
+
+== Description
+Pending.
+
+:numbered:
+
+== Install GPIO python library from adafruit
+
+sudo pip install --upgrade Adafruit_BBIO
+
