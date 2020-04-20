@@ -14,4 +14,6 @@ Pending.
 
 sudo pip install --upgrade Adafruit_BBIO
 
+== Check pinout
 
+https://beagleboard.org/Support/bone101[BBB 101]
